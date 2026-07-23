@@ -46,7 +46,7 @@ Banking-System/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Banking-System.git
+git clone https://github.com/nikhilshinde8223-creator/Banking-System.git
 ```
 
 ### Navigate to Project Folder
@@ -113,14 +113,6 @@ python main.py
 - Password Encryption
 - Email Notifications
 - Docker Support
-
----
-
-## 📸 Screenshots
-
-Add screenshots of your application here.
-
----
 
 ## 👨‍💻 Author
 
